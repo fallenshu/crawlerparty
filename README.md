@@ -6,4 +6,4 @@
 <img src="https://komarev.com/ghpvc/?username=catxrd&label=Number%20Visitors&color=000e27" alt="mentaldistress" />
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377152186234437633?theme=dark&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/377152186234437633)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377152186234437633?theme=dark&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/620600867816734742)
