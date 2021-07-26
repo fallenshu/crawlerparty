@@ -7,4 +7,4 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/620600867816734742?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/620600867816734742)
 
-<img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="40px" width="80px">  Drinking!
+<img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="40px" width="80px">  <txt src = "qwe" high="20px" width="30px">
